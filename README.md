@@ -4,8 +4,7 @@ Python 3.8.5
 
 # Install
 
-arxivscraper - https://github.com/Mahdisadjadi/arxivscraper
-
+arxivscraper:
 ```
 pip install arxivscraper
 ```
