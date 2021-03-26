@@ -1,7 +1,7 @@
-# ir_arxiv
+# Ir_arxiv
 
 Python 3.8.5
 
-# install
+# Install
 
-arxivscraper - https://github.com/Mahdisadjadi/arxivscraper
+arxivscraper - https://github.com/Mahdisadjadi/arxivscraper : pip install arxivscraper
