@@ -6,6 +6,6 @@ Python 3.8.5
 
 arxivscraper - https://github.com/Mahdisadjadi/arxivscraper
 
-'''
+```
 pip install arxivscraper
-'''
+```
